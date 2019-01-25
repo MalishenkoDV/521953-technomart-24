@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Dmytro Malishenko](https://up.htmlacademy.ru/htmlcss/24/user/521953).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Алипкин](https://htmlacademy.ru/profile/ealipkin).
 
 ---
 
